@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "13026495113",
+    "project_id": "mart-mandiri-45976",
+    "storage_bucket": "mart-mandiri-45976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13026495113:android:3fec0a5db7c3ef531d5458",
+        "android_client_info": {
+          "package_name": "com.rimeg.mart_mandiri_77"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13026495113-e9oa4dufncsj7sh3qg99bvieh108aquu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhnC3IKSC3s2pQTFnDUPvrjoETh9Tp26I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13026495113-e9oa4dufncsj7sh3qg99bvieh108aquu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
